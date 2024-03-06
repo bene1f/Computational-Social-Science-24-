@@ -31,8 +31,8 @@ library(utils)
 
 #I use tuber and my credential from YouTubeAPI to access data directly from you tube
 library(tuber)
-yt_oauth(app_id = "649130249162-7ubohdck416q965m94inof4od9c16pqv.apps.googleusercontent.com",
-         app_secret = "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", token = "")
+yt_oauth(app_id = "",
+         app_secret = "", token = "")
 
 #I use the option get_all_comments to get twe comments from each video
 Control <- get_all_comments('7TXEZ4tP06c')
