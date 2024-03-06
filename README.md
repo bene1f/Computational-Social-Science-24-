@@ -32,7 +32,7 @@ This project uses text mining techniques on comments of TED Talks YouTube videos
 
 
 
-### Topic modelling Black people group, Black People
+### Topic modelling, Black People
 ![Screenshot 2024-03-06 153707](https://github.com/bene1f/Computational-Social-Science-24-/assets/161606717/509a1c99-6e42-4ba4-930b-d1469e2dbe86)
 
 
