@@ -15,15 +15,14 @@ This project uses text mining techniques on comments of TED Talks YouTube videos
 ## Examples of output 
 
 
-### Sentiment Analysis on comments, Black People
+### Sentiment Analysis on words, Black People
 ![Screenshot 2024-03-06 153628](https://github.com/bene1f/Computational-Social-Science-24-/assets/161606717/d1d20159-81da-4228-ad37-4efa3528d1ef)
 
 
 
 
 
-
-### Sentiment Analysis on WORDS, Black People
+### Sentiment Analysis on comments, Black People
 ![Screenshot 2024-03-06 153649](https://github.com/bene1f/Computational-Social-Science-24-/assets/161606717/d75b7ad9-5836-40d2-9aef-1a40c93d0efa)
 
 
