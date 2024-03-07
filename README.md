@@ -36,6 +36,7 @@ This project uses text mining techniques on comments of TED Talks YouTube videos
 
 
 ## Repository files
+* Paper: CSSFinalPaper (1).pdf
 * Entire code: CODECSSPROJECTFELICI.R
 * Creation of dataset: Part1_Creation_of_Dataset.R
 * Elimination of Emoji: Part2_Elimination_of_emoji.R
