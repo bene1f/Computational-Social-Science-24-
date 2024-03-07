@@ -1,4 +1,6 @@
-# Sentiment Analysis and Topic modelling with YouTubeAPI 
+# Minorities in Ted Talks channel 
+
+## Sentiment Analysis and Topic modelling with YouTubeAPI 
 
 ## Computational Social Science Project
 
